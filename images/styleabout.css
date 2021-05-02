@@ -1,0 +1,26 @@
+.navbar{
+    background-color:rgb(255, 255, 255) !important;
+}
+.nav-link {
+    color: greenyellow !important;
+    font-weight: bolder;
+}
+#abouth1{
+    color: khaki;
+}
+#special{
+    margin-top: 5px !important;
+}
+#what{
+    background-image: url("images/a2.jpg") !important;
+    color: white !important;
+    text-align: center !important ;
+    width: 100% !important;
+}
+#colin{
+    margin-left: 10% !important;
+}
+#abouthP{
+    text-align: center !important;
+    margin-top: 5% !important;
+}

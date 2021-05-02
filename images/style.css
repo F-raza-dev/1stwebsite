@@ -1,0 +1,28 @@
+.navbar{
+    background-color:rgb(255, 255, 255) !important;
+}
+.nav-link {
+    color: greenyellow !important;
+    font-weight: bolder;
+}
+.intro {
+    color: indigo;
+    width: 40%;
+    height: auto;
+    padding-left: 40px;
+    background-color: cornsilk;
+    
+}
+.footer{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    background-color: blue;
+}
+/* row h1,h1,h6,p{ */
+    /* margin-left: 15%; */
+    /* line-height: inherit; */
+/* } */
+.btn {
+    margin-left: 15%;
+}

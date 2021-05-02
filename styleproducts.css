@@ -1,0 +1,11 @@
+.navbar{
+    background-color:rgb(255, 255, 255) !important;
+}
+.nav-link {
+    color: greenyellow !important;
+    font-weight: bolder;
+}
+#pr{
+    text-align: center !important;
+    color: khaki !important;
+}
